@@ -62,7 +62,7 @@
         align: 'right',
     });
 
-    /************date and clock of modalEdit********************/
+    /************date and clock of modalEdit******************/
     $('#datepicker3').datepicker({
         format: "dd M yyyy",
         orientation: "top auto",
